@@ -53,7 +53,11 @@ def subtracao(arr, n):
 
 def soma_arr(arr1, arr2):
     # soma de dois arrays elemento-a-elemento e retorna
-    return
+    arr3 = []
+    for i in range(len(arr1)):
+        arr3.append(arr1[i] + arr2[i])
+    return arr3
+
 
 def produto_interno(arr1, arr2):
     # retorna o produto interno entre dois vetores
