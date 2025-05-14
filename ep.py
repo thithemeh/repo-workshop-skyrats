@@ -40,7 +40,7 @@ def soma(arr, n = 1):
     # entrada: arr = [1, 1, 1], n = 5
     # saida: arr = [6, 6, 6]
     for i in range(len(arr)):
-        arr[i] = arr[i] + n 
+        arr[i] = arr[i] + n
     return arr
 
 
@@ -61,4 +61,7 @@ def soma_arr(arr1, arr2):
 
 def produto_interno(arr1, arr2):
     # retorna o produto interno entre dois vetores
-    return
+    resultado = 0
+    for i in range(len(arr1)):
+        resultado = resultado + (arr1[i] * arr2[i])
+    return resultado
