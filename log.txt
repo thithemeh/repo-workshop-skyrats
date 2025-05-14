@@ -1,0 +1,9 @@
+542961d (HEAD -> algebra-linear, origin/algebra-linear) :sparkles: função produto_interno OK
+06eb2ec :sparkles: função soma_arr OK
+ad98bc1 :sparkles: função subtração OK
+899f63c :sparkles: função soma OK
+bef0b34 (origin/main, main) :sparkles: função moda OK
+f075dc3 :sparkles: função média OK
+8dd537b :sparkles: função meio OK
+466a1a0 :sparkles: função máximo OK
+d7e3311 :tada: Primeiro commit, com adição dos arquivos iniciais, da logo e do README
