@@ -3,6 +3,7 @@
 # Implemente uma função de cada vez, e dê commit em uma função por vez.
 # NOME: Thiago Martins de Andrade Machado
 
+import statistics
 
 def minimo(arr):
     # retorna o menor valor do array
@@ -31,7 +32,7 @@ def media(arr):
 
 def moda(arr):
     # retorna o valor que mais se repete no array
-    return
+    return statistics.mode(arr)
 
 def soma(arr, n = 1):
     # soma n a todos os valores do array e retorna o novo array
