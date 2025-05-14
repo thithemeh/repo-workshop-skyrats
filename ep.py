@@ -1,7 +1,7 @@
 ##### EP - GIT ###
 # Ao implementar uma função, dê commit no github usando os comandos vistos no workshop!
 # Implemente uma função de cada vez, e dê commit em uma função por vez.
-# NOME:
+# NOME: Thiago Martins de Andrade Machado
 
 
 def minimo(arr):
@@ -10,7 +10,7 @@ def minimo(arr):
 
 def maximo(arr):
     # retorna o maior valor do array
-    return
+    return max(arr)
 
 def meio(arr):
     # retorna o valor exatamente ao meio do array
